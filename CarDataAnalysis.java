@@ -12,7 +12,6 @@ import java.io.FileNotFoundException;
  * Johns Hopkins University
  * Spring 2023
  * 500.112 Gateway Computing: Java Spring 2023
- * Mahendra Shahi, mshahi2@jhu.edu, 5CE48B, 3/9/2023.
  * The project lets the user pick a car of their choice. 
  * Users can get a car based on various Mileage, Price
  * Brand.They can get a car from the main data 
